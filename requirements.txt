@@ -1,0 +1,2 @@
+git+ssh://git@github.com/CitrineInformatics/taurus.git@release/0.1.0
+git+ssh://git@github.com/CitrineInformatics/citrine-python.git@release/0.1.0
